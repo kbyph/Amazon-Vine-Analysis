@@ -54,3 +54,4 @@ Based on the results, there is not enough evidence to prove a strong bias toward
 However this analysis could be further examined by looking all star-rating levels across paid and unpaid reviews. 
 Another recommendation for a more thorough analysis should be conducted across multiple different product catagories since some may have greater commerce than one another.
 
+
